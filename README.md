@@ -1,7 +1,5 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -13,8 +11,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Github](#)
-- Live Site URL: [Github](#)
+- Solution URL: [Github](https://github.com/Shaheen121/profile-card-component-main.git)
+- Live Site URL: [Github](https://shaheen121.github.io/profile-card-component-main/)
 
 ## My process
 
